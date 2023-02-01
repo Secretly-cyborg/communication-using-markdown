@@ -17,7 +17,9 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
-
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
 
 <!--
   <<< Author notes: Start of the course >>>
