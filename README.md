@@ -8,6 +8,9 @@
 ## and I'm also editing things now woooo
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
+
+![image of octopus](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcBucX8XlxbYO6VPUUo4wLuZGYwcJoelageg&usqp=CAU)
+
 <!--
   <<< Author notes: Start of the course >>>
   Include start button, a note about Actions minutes,
