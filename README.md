@@ -11,6 +11,14 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 ![image of octopus](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcBucX8XlxbYO6VPUUo4wLuZGYwcJoelageg&usqp=CAU)
 
+
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+
 <!--
   <<< Author notes: Start of the course >>>
   Include start button, a note about Actions minutes,
